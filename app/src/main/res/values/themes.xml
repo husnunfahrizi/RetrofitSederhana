@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Retrofit" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Primary brand color (biru tua BMKG) -->
+        <item name="colorPrimary">#0D47A1</item>
+        <item name="colorPrimaryVariant">#002171</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color (biru terang BMKG) -->
+        <item name="colorSecondary">#42A5F5</item>
+        <item name="colorSecondaryVariant">#1E88E5</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar agar icon terlihat (putih berlawanan) -->
+        <item name="android:statusBarColor">#002171</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Pastikan teks dan icon tetap kontras -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:navigationBarColor">#0D47A1</item>
+
+    </style>
+
+</resources>

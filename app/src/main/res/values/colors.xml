@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Biru Premium Kita -->
+    <color name="purple_200">#90CAF9</color> <!-- Biru Muda -->
+    <color name="purple_500">#1976D2</color> <!-- Biru Sedang -->
+    <color name="purple_700">#0D47A1</color> <!-- Biru Tua -->
+
+    <color name="teal_200">#42A5F5</color>
+    <color name="teal_700">#1565C0</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+
+    <!-- Opsional, warna dasar kartu -->
+    <color name="card_bg_solid">#1AFFFFFF</color>
+</resources>

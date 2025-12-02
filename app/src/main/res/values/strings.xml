@@ -1,0 +1,11 @@
+<resources>
+    <!-- Ganti "Info Cuaca Jateng" dengan nama aplikasi yang kamu mau -->
+    <!-- Nama ini yang akan muncul di ICON menu HP kamu -->
+    <string name="app_name">Retrofit</string>
+
+    <!-- String tambahan (Opsional, biar rapi kodingannya) -->
+    <string name="title_lokasi">Lokasi</string>
+    <string name="title_pilih_kabupaten">Pilih Kabupaten</string>
+    <string name="title_pilih_kecamatan">Pilih Kecamatan</string>
+    <string name="title_daftar_kecamatan">Daftar Kecamatan</string>
+</resources>

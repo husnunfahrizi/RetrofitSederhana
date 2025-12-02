@@ -1,0 +1,712 @@
+{
+  "provinsi": {
+    "name": "Jawa Tengah",
+    "code": "33",
+    "kabupaten": [
+      {
+        "name": "Kabupaten Cilacap",
+        "code": "33.01",
+        "kecamatan": [
+          {
+            "name": "Cilacap Selatan",
+            "code": "33.01.01",
+            "desa": [
+              {
+                "name": "Tegalkamulyan",
+                "code": "33.01.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Banyumas",
+        "code": "33.02",
+        "kecamatan": [
+          {
+            "name": "Purwokerto Selatan",
+            "code": "33.02.01",
+            "desa": [
+              {
+                "name": "Kober",
+                "code": "33.02.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Purbalingga",
+        "code": "33.03",
+        "kecamatan": [
+          {
+            "name": "Kalimanah",
+            "code": "33.03.01",
+            "desa": [
+              {
+                "name": "Kalimanah Wetan",
+                "code": "33.03.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Banjarnegara",
+        "code": "33.04",
+        "kecamatan": [
+          {
+            "name": "Banjarnegara",
+            "code": "33.04.01",
+            "desa": [
+              {
+                "name": "Parakancanggah",
+                "code": "33.04.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Kebumen",
+        "code": "33.05",
+        "kecamatan": [
+          {
+            "name": "Kebumen",
+            "code": "33.05.01",
+            "desa": [
+              {
+                "name": "Kebumen",
+                "code": "33.05.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Purworejo",
+        "code": "33.06",
+        "kecamatan": [
+          {
+            "name": "Purworejo",
+            "code": "33.06.01",
+            "desa": [
+              {
+                "name": "Sindurjan",
+                "code": "33.06.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Wonosobo",
+        "code": "33.07",
+        "kecamatan": [
+          {
+            "name": "Wonosobo",
+            "code": "33.07.01",
+            "desa": [
+              {
+                "name": "Pagerkukuh",
+                "code": "33.07.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Magelang",
+        "code": "33.08",
+        "kecamatan": [
+          {
+            "name": "Mungkid",
+            "code": "33.08.01",
+            "desa": [
+              {
+                "name": "Gondang",
+                "code": "33.08.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Boyolali",
+        "code": "33.09",
+        "kecamatan": [
+          {
+            "name": "Boyolali",
+            "code": "33.09.01",
+            "desa": [
+              {
+                "name": "Banaran",
+                "code": "33.09.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Klaten",
+        "code": "33.10",
+        "kecamatan": [
+          {
+            "name": "Klaten Selatan",
+            "code": "33.10.01",
+            "desa": [
+              {
+                "name": "Gayamprit",
+                "code": "33.10.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Sukoharjo",
+        "code": "33.11",
+        "kecamatan": [
+          {
+            "name": "Sukoharjo",
+            "code": "33.11.01",
+            "desa": [
+              {
+                "name": "Jetis",
+                "code": "33.11.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Wonogiri",
+        "code": "33.12",
+        "kecamatan": [
+          {
+            "name": "Wonogiri",
+            "code": "33.12.01",
+            "desa": [
+              {
+                "name": "Giritirto",
+                "code": "33.12.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Karanganyar",
+        "code": "33.13",
+        "kecamatan": [
+          {
+            "name": "Karanganyar",
+            "code": "33.13.01",
+            "desa": [
+              {
+                "name": "Cangakan",
+                "code": "33.13.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Sragen",
+        "code": "33.14",
+        "kecamatan": [
+          {
+            "name": "Sragen",
+            "code": "33.14.01",
+            "desa": [
+              {
+                "name": "Sine",
+                "code": "33.14.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Grobogan",
+        "code": "33.15",
+        "kecamatan": [
+          {
+            "name": "Purwodadi",
+            "code": "33.15.01",
+            "desa": [
+              {
+                "name": "Danyang",
+                "code": "33.15.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Blora",
+        "code": "33.16",
+        "kecamatan": [
+          {
+            "name": "Blora",
+            "code": "33.16.01",
+            "desa": [
+              {
+                "name": "Tempelan",
+                "code": "33.16.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Rembang",
+        "code": "33.17",
+        "kecamatan": [
+          {
+            "name": "Rembang",
+            "code": "33.17.01",
+            "desa": [
+              {
+                "name": "Leteh",
+                "code": "33.17.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Pati",
+        "code": "33.18",
+        "kecamatan": [
+          {
+            "name": "Sukolilo",
+            "code": "33.18.01",
+            "desa": []
+          },
+          {
+            "name": "Kayen",
+            "code": "33.18.02",
+            "desa": []
+          },
+          {
+            "name": "Tambakromo",
+            "code": "33.18.03",
+            "desa": []
+          },
+          {
+            "name": "Winong",
+            "code": "33.18.04",
+            "desa": []
+          },
+          {
+            "name": "Puncakwangi",
+            "code": "33.18.05",
+            "desa": []
+          },
+          {
+            "name": "Jaken",
+            "code": "33.18.06",
+            "desa": []
+          },
+          {
+            "name": "Batangan",
+            "code": "33.18.07",
+            "desa": []
+          },
+          {
+            "name": "Juwana",
+            "code": "33.18.08",
+            "desa": []
+          },
+          {
+            "name": "Jakenan",
+            "code": "33.18.09",
+            "desa": []
+          },
+          {
+            "name": "Pati",
+            "code": "33.18.10",
+            "desa": []
+          },
+          {
+            "name": "Gabus",
+            "code": "33.18.11",
+            "desa": []
+          },
+          {
+            "name": "Margorejo",
+            "code": "33.18.12",
+            "desa": []
+          },
+          {
+            "name": "Gembong",
+            "code": "33.18.13",
+            "desa": []
+          },
+          {
+            "name": "Tlogowungu",
+            "code": "33.18.14",
+            "desa": []
+          },
+          {
+            "name": "Wedarijaksa",
+            "code": "33.18.15",
+            "desa": []
+          },
+          {
+            "name": "Margoyoso",
+            "code": "33.18.16",
+            "desa": []
+          },
+          {
+            "name": "Gunungwungkal",
+            "code": "33.18.17",
+            "desa": []
+          },
+          {
+            "name": "Cluwak",
+            "code": "33.18.18",
+            "desa": []
+          },
+          {
+            "name": "Tayu",
+            "code": "33.18.19",
+            "desa": []
+          },
+          {
+            "name": "Dukuhseti",
+            "code": "33.18.20",
+            "desa": [
+              {
+                "name": "Wedusan",
+                "code": "33.18.20.2001"
+              },
+              {
+                "name": "Dumpil",
+                "code": "33.18.20.2002"
+              },
+              {
+                "name": "Ngagel",
+                "code": "33.18.20.2003"
+              },
+              {
+                "name": "Bakalan",
+                "code": "33.18.20.2004"
+              },
+              {
+                "name": "Kenanti",
+                "code": "33.18.20.2005"
+              },
+              {
+                "name": "Alasdowo",
+                "code": "33.18.20.2006"
+              },
+              {
+                "name": "Banyutowo",
+                "code": "33.18.20.2007"
+              },
+              {
+                "name": "Dukuhseti",
+                "code": "33.18.20.2008"
+              },
+              {
+                "name": "Grogolan",
+                "code": "33.18.20.2009"
+              },
+              {
+                "name": "Kembang",
+                "code": "33.18.20.2010"
+              },
+              {
+                "name": "Tegalombo",
+                "code": "33.18.20.2011"
+              },
+              {
+                "name": "Puncel",
+                "code": "33.18.20.2012"
+              }
+            ]
+          },
+          {
+            "name": "Trangkil",
+            "code": "33.18.21",
+            "desa": []
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Kudus",
+        "code": "33.19",
+        "kecamatan": [
+          {
+            "name": "Jati",
+            "code": "33.19.01",
+            "desa": [
+              {
+                "name": "Jati Wetan",
+                "code": "33.19.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Jepara",
+        "code": "33.20",
+        "kecamatan": [
+          {
+            "name": "Jepara",
+            "code": "33.20.01",
+            "desa": [
+              {
+                "name": "Jobokuto",
+                "code": "33.20.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Demak",
+        "code": "33.21",
+        "kecamatan": [
+          {
+            "name": "Demak",
+            "code": "33.21.01",
+            "desa": [
+              {
+                "name": "Kadilangu",
+                "code": "33.21.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Semarang",
+        "code": "33.22",
+        "kecamatan": [
+          {
+            "name": "Banyubiru",
+            "code": "33.22.01",
+            "desa": [
+              {
+                "name": "Rowoboni",
+                "code": "33.22.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Temanggung",
+        "code": "33.23",
+        "kecamatan": [
+          {
+            "name": "Temanggung",
+            "code": "33.23.01",
+            "desa": [
+              {
+                "name": "Mlandingan",
+                "code": "33.23.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Kendal",
+        "code": "33.24",
+        "kecamatan": [
+          {
+            "name": "Kendal",
+            "code": "33.24.01",
+            "desa": [
+              {
+                "name": "Langenharjo",
+                "code": "33.24.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Batang",
+        "code": "33.25",
+        "kecamatan": [
+          {
+            "name": "Batang",
+            "code": "33.25.01",
+            "desa": [
+              {
+                "name": "Karangasem",
+                "code": "33.25.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Pekalongan",
+        "code": "33.26",
+        "kecamatan": [
+          {
+            "name": "Pekalongan Selatan",
+            "code": "33.26.01",
+            "desa": [
+              {
+                "name": "Banyurip",
+                "code": "33.26.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Pemalang",
+        "code": "33.27",
+        "kecamatan": [
+          {
+            "name": "Pemalang",
+            "code": "33.27.01",
+            "desa": [
+              {
+                "name": "Mulyoharjo",
+                "code": "33.27.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Tegal",
+        "code": "33.28",
+        "kecamatan": [
+          {
+            "name": "Slawi",
+            "code": "33.28.01",
+            "desa": [
+              {
+                "name": "Procot",
+                "code": "33.28.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kabupaten Brebes",
+        "code": "33.29",
+        "kecamatan": [
+          {
+            "name": "Brebes",
+            "code": "33.29.01",
+            "desa": [
+              {
+                "name": "Pasarbatang",
+                "code": "33.29.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Magelang",
+        "code": "33.71",
+        "kecamatan": [
+          {
+            "name": "Magelang Tengah",
+            "code": "33.71.01",
+            "desa": [
+              {
+                "name": "Pandanaran",
+                "code": "33.71.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Surakarta",
+        "code": "33.72",
+        "kecamatan": [
+          {
+            "name": "Banjarsari",
+            "code": "33.72.01",
+            "desa": [
+              {
+                "name": "Keprabon",
+                "code": "33.72.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Salatiga",
+        "code": "33.73",
+        "kecamatan": [
+          {
+            "name": "Sidorejo",
+            "code": "33.73.01",
+            "desa": [
+              {
+                "name": "Sidorejo Lor",
+                "code": "33.73.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Semarang",
+        "code": "33.74",
+        "kecamatan": [
+          {
+            "name": "Semarang Tengah",
+            "code": "33.74.01",
+            "desa": [
+              {
+                "name": "Sekayu",
+                "code": "33.74.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Pekalongan",
+        "code": "33.75",
+        "kecamatan": [
+          {
+            "name": "Pekalongan Barat",
+            "code": "33.75.01",
+            "desa": [
+              {
+                "name": "Bendansari",
+                "code": "33.75.01.1001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kota Tegal",
+        "code": "33.76",
+        "kecamatan": [
+          {
+            "name": "Tegal Barat",
+            "code": "33.76.01",
+            "desa": [
+              {
+                "name": "Krandon",
+                "code": "33.76.01.1001"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

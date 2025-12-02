@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="12dp">
+
+    <!-- Jam -->
+    <TextView
+        android:id="@+id/tvItemJam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10:00"
+        android:textSize="14sp"
+        android:textColor="#546E7A" />
+
+    <!-- Icon Cuaca (Gunakan vector asset icon cuaca kamu) -->
+    <!-- Jika belum ada icon, pakai ic_menu_camera atau sejenisnya sebagai placeholder -->
+    <ImageView
+        android:id="@+id/imgItemIcon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:src="@android:drawable/ic_menu_view"
+        android:contentDescription="icon"
+        app:tint="#FBC02D"
+        xmlns:app="http://schemas.android.com/apk/res-auto"/>
+
+    <!-- Suhu -->
+    <TextView
+        android:id="@+id/tvItemSuhu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="26°"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#263238" />
+
+</LinearLayout>
